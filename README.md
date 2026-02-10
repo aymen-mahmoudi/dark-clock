@@ -1,11 +1,7 @@
 # dark-clock
 
 ## Description
-I just got tired of time websites filled with ads and unnecessary clutter.
-
-dark-clock is a clean, distraction-free web clock that combines a digital clock, stopwatch, and countdown timer in a modern dark interface.
-
-It also comes with multiple dark-style themes, a hideable sidebar for focus, and an adjustable display size.
+Just got tired of time websites filled with ads and unnecessary clutter.
 
 ## Usage
 Just open the link:  
